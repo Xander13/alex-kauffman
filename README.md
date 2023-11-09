@@ -1,3 +1,5 @@
+![logo](https://github.com/Xander13/Xander13/blob/main/Kauffman_OpenGraph%20(1).png)
+
 <h1 align="left">Hi 👋, I'm Alex Kauffman</h1>
 <h3 align="left">UX/UI designer that is crafting UI contents for websites, apps, experience, and more. — Detroit Area.</h3>
 <img align="right" alt="Poster design contains of shapes has text in them which states UX/UI Design, inclusion advocacy, saber fencer." width="400" src="https://kauffman.studio/BentoBio.svg">
