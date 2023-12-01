@@ -3,6 +3,6 @@
 <h1 align="left">Hi 👋, I'm Alex Kauffman</h1>
 <h3 align="left">UX/UI designer that is crafting UI contents for websites, apps, experience, and more. — Detroit Area.</h3>
 <h3 align="left">👉🏻 I’m currently learning: latest css features</h3>
-<h3 align="left">👉🏻 All of my projects are available at https://kauffman.studio/bento</h3>
+<h3 align="left">👉🏻 All of my projects are available at https://alex-kauffman.com</h3>
 <h3 align="left">👉🏻 Languages and Tools: Figma, Adobe Suite, HTML&CSS, Javascript, Python, QT</h3>
 
